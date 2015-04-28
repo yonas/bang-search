@@ -1,0 +1,20 @@
+body {
+    width: 380px;
+    margin-bottom: 30px;
+}
+
+#controls {
+    margin: 0 auto;
+    float: none;
+    width: 200px;
+}
+
+table {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.success-message {
+    display: none;
+    padding: 15px;
+}
